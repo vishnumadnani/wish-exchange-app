@@ -1,0 +1,5 @@
+![Shuffle](https://github.com/user-attachments/assets/1892eeb9-75f2-458b-a048-eebf863cd5b7)
+![Pending List](https://github.com/user-attachments/assets/34a55d8d-be92-4d3f-aaca-35a3d042194f)
+![Edit](https://github.com/user-attachments/assets/704c6180-9cb8-459d-87cf-3bd997d9806a)
+![Approve](https://github.com/user-attachments/assets/22854867-6678-476e-9ce8-35cdb50a6a77)
+![Add Wish](https://github.com/user-attachments/assets/31d722b9-6704-4f59-908c-9777c1a99076)
