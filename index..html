@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wish Exchange</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="header">
+    <h1>Wish Exchange</h1>
+  </header>
+
+  <main>
+    <section class="form-section">
+      <h2>Add a Wish</h2>
+      <div class="input-group">
+        <input type="text" id="employee-name" placeholder="Enter your name">
+        <input type="text" id="employee-wish" placeholder="Enter your wish">
+        <button id="add-wish" class="btn primary-btn">Add Wish</button>
+      </div>
+    </section>
+
+    <section class="pending-section">
+      <h2>Pending Wishes</h2>
+      <ul id="pending-list"></ul>
+      <button id="approve-wishes" class="btn secondary-btn">Approve Wishes</button>
+    </section>
+
+    <section class="wishlist-section">
+      <h2>Approved Wish List</h2>
+      <ul id="wish-list"></ul>
+    </section>
+
+    <section class="shuffle-section">
+      <h2>Shuffle Wishes</h2>
+      <button id="shuffle-wishes" class="btn primary-btn">Shuffle Wishes</button>
+      <ul id="shuffled-list"></ul>
+    </section>
+
+    <button id="clear-all" class="btn danger-btn">Clear All</button>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
